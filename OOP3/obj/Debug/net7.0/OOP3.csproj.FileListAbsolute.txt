@@ -1,0 +1,15 @@
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/bin/Debug/net7.0/OOP3
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/bin/Debug/net7.0/OOP3.deps.json
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/bin/Debug/net7.0/OOP3.runtimeconfig.json
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/bin/Debug/net7.0/OOP3.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/bin/Debug/net7.0/OOP3.pdb
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.csproj.AssemblyReference.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.AssemblyInfoInputs.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.AssemblyInfo.cs
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.csproj.CoreCompileInputs.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/refint/OOP3.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.pdb
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/OOP3.genruntimeconfig.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP3/obj/Debug/net7.0/ref/OOP3.dll

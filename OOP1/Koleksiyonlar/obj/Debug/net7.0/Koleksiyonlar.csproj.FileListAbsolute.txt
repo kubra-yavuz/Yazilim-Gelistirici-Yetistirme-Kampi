@@ -1,0 +1,15 @@
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.csproj.AssemblyReference.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.AssemblyInfoInputs.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.AssemblyInfo.cs
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.deps.json
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.runtimeconfig.json
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/bin/Debug/net7.0/Koleksiyonlar.pdb
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/refint/Koleksiyonlar.dll
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.pdb
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/Koleksiyonlar.genruntimeconfig.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/Koleksiyonlar/obj/Debug/net7.0/ref/Koleksiyonlar.dll

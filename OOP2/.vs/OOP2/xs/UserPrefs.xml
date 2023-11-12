@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{473B1107-3546-4DAA-BB41-8EDAC4CE91CC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../OOP3/Program.cs">
+    <Files>
+      <File FileName="MusteriManager.cs" Line="8" Column="4" />
+      <File FileName="../OOP3/Program.cs" Line="23" Column="1" />
+      <File FileName="../OOP3/KrediManager.cs" Line="4" Column="13" />
+      <File FileName="../OOP3/KonutKrediManager.cs" Line="13" Column="69" />
+      <File FileName="../OOP3/TasitKrediManager.cs" Line="13" Column="69" />
+      <File FileName="../OOP3/IhtiyacKrediManager.cs" Line="13" Column="74" />
+      <File FileName="../OOP3/BasvuruManager.cs" Line="10" Column="24" />
+      <File FileName="../OOP3/ILoggerService.cs" Line="6" Column="14" />
+      <File FileName="../OOP3/DatabaseLoggerService.cs" Line="13" Column="1" />
+      <File FileName="../OOP3/FileLogerService.cs" Line="6" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP2" expanded="True">
+            <Node name="OOP3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OOP3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OOP2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

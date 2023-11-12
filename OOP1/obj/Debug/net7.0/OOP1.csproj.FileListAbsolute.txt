@@ -1,0 +1,5 @@
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/obj/Debug/net7.0/OOP1.csproj.AssemblyReference.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/obj/Debug/net7.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfoInputs.cache
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfo.cs
+/Users/kubranuryavuz/Projects/10 Kasım Ödevi/OOP1/obj/Debug/net7.0/OOP1.csproj.CoreCompileInputs.cache
